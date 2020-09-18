@@ -6,3 +6,10 @@ https://www.youtube.com/watch?v=bX1dtL_PZl4
 
 Watch Processing tutorial by Daniel Shiffman
 https://www.youtube.com/watch?v=qUVWM2Q4vAU
+
+9/17/20
+Generative Art sample:
+https://www.youtube.com/watch?v=zT7We17o4zU
+
+P5.JS Intro:
+https://www.youtube.com/watch?v=yPWkPOfnGsw&vl=en
