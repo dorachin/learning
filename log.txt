@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=zT7We17o4zU
 
 P5.JS Intro:
 https://www.youtube.com/watch?v=yPWkPOfnGsw&vl=en
+
+9/18/20
+P5.JS Reference Doc:
+https://p5js.org/reference/
