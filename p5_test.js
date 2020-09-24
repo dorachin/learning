@@ -1,3 +1,5 @@
+// p5.js reference:
+// https://p5js.org/reference/
 function setup() {
   createCanvas(1000, 1000);
 }
