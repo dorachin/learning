@@ -11,7 +11,8 @@ function draw() {
   //   rotate(1);
   // }
   if (keyIsDown(LEFT_ARROW)) {
-    rotate(20);
+    // rotate(20);
+    translate(p5.Vector.fromAngle(millis() / 1000, 40));
   } else {
     fill(255);
   }
