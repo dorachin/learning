@@ -12,9 +12,11 @@ function draw() {
   // }
   if (keyIsDown(LEFT_ARROW)) {
     // rotate(20);
-    translate(p5.Vector.fromAngle(millis() / 1000, 40));
+    translate(p5.Vector.fromAngle(millis() / 1000, 100));
   } else {
     fill(255);
   }
-  rect(25, 25, 50, 50);
+  for (i = 0; i < 10; i++) {
+    rect(25*i, 25*i, 50, 50);
+  }
 }
